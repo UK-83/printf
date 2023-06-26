@@ -1,5 +1,7 @@
 #include "main.h"
 #include <stdio.h>
+#include <stdarg.h>
+#include <stdlib.h>
 /**
  * get_flags - Calculates active flags
  * @format: Formatted string in which to print the arguments

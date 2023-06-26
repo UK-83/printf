@@ -1,5 +1,7 @@
 #include "main.h"
 #include <stdio.h>
+#include <stdarg.h>
+#include <unistd.h>
 /**
  * get_size - Calculates the size to cast the argument
  * @format: Formatted string in which to print the arguments

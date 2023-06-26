@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdio.h>
+#include <stdarg.h>
 /**
  * get_precision - Calculates the precision for printing
  * @format: Formatted string in which to print the arguments
