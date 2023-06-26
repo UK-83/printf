@@ -1,10 +1,7 @@
 #include "main.h"
-<<<<<<< HEAD
-#include <stdlib.h>
-=======
 #include <stdarg.h>
 #include <unistd.h>
->>>>>>> 679ff41a1059cbb5acf3e1ae7c4ea2bf4b687d4c
+#include <stdlib.h>
 
 void print_buffer(char buffer[], int *buff_ind);
 
